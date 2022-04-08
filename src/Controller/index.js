@@ -1,0 +1,10 @@
+module.exports={
+	userController:require('./UserController'),
+	feedbckController:require('./feeddbackController'),
+	termCondationController:require('./TermCondationController'),
+	privacyPolicyController:require('./PrivacyPolicyController'),
+	helpSupportController:require('./HelpSupportController'),
+	faqController:require('./faqController'),
+	jobController:require('./JobController'),
+	addressController:require('./AddressController')
+}

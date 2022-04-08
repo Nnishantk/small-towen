@@ -1,0 +1,34 @@
+{
+  "name": "one_small_towen_api",
+  "version": "1.0.0",
+  "description": "create read upadtae delete payment_gatway ",
+  "main": "index.js",
+  "scripts": {
+    "test": "hii",
+    "start": "node ./src/indexServer",
+    "dev": "nodemon ./src/indexServer"
+  },
+  "keywords": [
+    "c",
+    "R",
+    "U",
+    "D"
+  ],
+  "author": "Flyweis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.7",
+    "multer": "^1.4.4",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.15",
+    "razorpay": "^2.8.1"
+  }
+}
